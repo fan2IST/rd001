@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常量d3", "常量d3.vcxproj", "{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Debug|x64.ActiveCfg = Debug|x64
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Debug|x64.Build.0 = Debug|x64
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Debug|x86.ActiveCfg = Debug|Win32
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Debug|x86.Build.0 = Debug|Win32
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Release|x64.ActiveCfg = Release|x64
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Release|x64.Build.0 = Release|x64
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Release|x86.ActiveCfg = Release|Win32
+		{B63A6B65-1EA4-4283-9CCC-80D1FB79E916}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD179E66-0756-48AB-BE77-6A3CCCA2AFFA}
+	EndGlobalSection
+EndGlobal
